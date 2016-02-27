@@ -1,46 +1,27 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: default
+title: hello, world!
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+# anduo wang
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<adw@illinois.edu> <br> <adw@temple.edu>
 
-## Update Author Attributes
+I am a postdoc working with
+[Matthew Caesar](http://web.engr.illinois.edu/~caesar/ "Title") and
+[Brighten Godfrey](http://pbg.cs.illinois.edu/ "Title") in
+[Department of Computer Science](http://cs.illinois.edu/ "Title") at
+the [University of Illinois Urbana-Champaign](http://illinois.edu/
+"Title").
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+My research centers around designing and building manageable network
+systems that leverage and re-ignite interests in formal reasoning
+(database theories, deductive formal methods, inductive machine
+learning etc).
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+I'm joining
+[Computer and Information Science](http://www.temple.edu/cis/ "Title")
+at [Temple University](http://www.temple.edu/ "Title") as assistant
+professor in January 2016. I am looking for collaborators and
+students. *Have an appetite for solving system problems with
+theory-powered tools? Want to try [research]({{site.url}}/research/)?*
