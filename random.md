@@ -1,6 +1,8 @@
 ---
-layout: default
-title: random
+layout: page
+title : random
+header : Post Archive
+group: navigation
 ---
 
 ## writing
@@ -29,5 +31,5 @@ reader's side.
 Computer science researchers are blessed with a great number of cute
 and accessible (playing) tools. Some of the beauties are:
 
-- long lived [emacs](https://www.gnu.org/software/emacs/emacs.html "Title")!
+- the one and only --- [emacs](https://www.gnu.org/software/emacs/emacs.html "Title")
 - build website with [Jekyll](http://jekyllrb.com/ "Title")

@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: page
 title: short bio
+header : Post Archive
+group: navigation
 ---
 
-# short bio
+<!-- # short bio -->
 
 Anduo Wang will join [Temple University](http://www.temple.edu/cis/
 "Title") as Tenure track assistant professor in January 2016. She is a

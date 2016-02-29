@@ -1,9 +1,11 @@
 ---
-layout: default
-title: research
+layout: page
+title : research
+header : Post Archive
+group: navigation
 ---
 
-# research
+<!-- # research -->
 
 My research centers around designing and building manageable (network)
 systems that leverage and re-ignite interests in formal reasoning
