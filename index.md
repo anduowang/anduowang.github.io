@@ -5,9 +5,7 @@ title: hello, world!
 
 # anduo wang
 
-<img class="fblogo" border="0" src="{{site.url}}/img/aw.jpg" height="200">
-
-<!-- <img class="fblogo" border="0" src="{{site.url}}/img/sdndb.jpg" height="160"> -->
+<!-- <img class="fblogo" border="0" src="{{site.url}}/img/aw.jpg" height="200"> -->
 
 <adw@illinois.edu> <br> <adw@temple.edu>
 
