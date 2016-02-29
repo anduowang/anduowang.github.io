@@ -5,6 +5,10 @@ title: hello, world!
 
 # anduo wang
 
+<img class="fblogo" border="0" src="{{site.url}}/img/aw.jpg">
+
+<img class="fblogo" border="0" src="{{site.url}}/img/sdndb.jpg" height="160">
+
 <adw@illinois.edu> <br> <adw@temple.edu>
 
 I am a postdoc working with
