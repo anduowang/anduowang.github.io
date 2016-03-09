@@ -19,7 +19,7 @@ To this end, we champion a perspective that SDN control fundamentally revolves a
 
 ### *ravel*: a realization
 
-- Ravel is now open source, [download](https://cis.temple.edu/~adw/ravel/ravelvm.zip)
+- Ravel is now open source, <http://download.ravel-net.org>
 - companion site, <http://ravel-net.org>
 - github organization, <https://github.com/ravel-net>
 

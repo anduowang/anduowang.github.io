@@ -14,9 +14,13 @@ Assistant professor <br>
 
 <adw@temple.edu><br>
 SERC 342, N 12th St, Philadelphia, PA 19122
+<br>
+(old site  <http://adw.web.engr.illinois.edu>)
 
 ----
 
 My research centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods.
 
 <u>I am looking for students and collaborators</u>. Have an appetite for solving system problems with theory-powered tools? Want to try out your ideas on the  exciting and rewarding problems? Check my [research]({{site.url}}/research.html) and [cv]({{site.url}}/pdf/cv_anduo.pdf).
+
+
