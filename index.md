@@ -1,6 +1,6 @@
 ---
 layout: default
-title: hello, world!
+title: adw homepage
 ---
 
 # anduo wang
@@ -9,8 +9,8 @@ title: hello, world!
 
 <!-- <adw@illinois.edu> <br> --> 
 
-Assistant professor, [Computer and Information Science](http://www.temple.edu/cis/ "Title")
-at [Temple University](http://www.temple.edu/ "Title").
+Assistant professor <br> 
+[Computer and Information Science](http://www.temple.edu/cis/ "Title"), [Temple University](http://www.temple.edu/ "Title")
 
 <adw@temple.edu><br>
 SERC 342, N 12th St, Philadelphia, PA 19122
