@@ -6,7 +6,7 @@ group: navigation
 ---
 
 <!-- # research -->
-My research centers around designing and building manageable (network) systems that leverage and re-ignite interests in formal reasoning (database theories, deductive formal methods, inductive machine learning etc).
+My research centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods.
 
 ----
 
@@ -14,13 +14,16 @@ My research centers around designing and building manageable (network) systems t
 
 ### Ravel: a database-defined network
 
+SDN's logically centralized control provides an insertion point for programming the network.  While it is generally agreed that higher-level abstractions are needed to make that programming easy, there is little consensus on what are the ``right'' abstractions.  Indeed, as SDN moves beyond its initial specialized deployments to broader use cases, it is likely that network control applications will require diverse abstractions that evolve over time.
 
-- [[SOSR'16 short paper]]({{site.url}}/pdf/sdndb/sosr_paper70.pdf)
-- [[overview]]({{site.url}}/img/sdndb.jpg "overview")
+To this end, we champion a perspective that SDN control fundamentally revolves around data representation. We discard any application-specific structure that might be outgrown by new demands. Instead, we adopt a plain data representation of the entire network --- network topology, forwarding, and control applications --- and seek a universal data language that allows application programmers to transform the primitive representation into any high-level representations presented to applications or network operators. Driven by this insight, we present a system, *Ravel*, that implements an entire SDN network control infrastructure within a standard SQL database.  In Ravel, network abstractions take the form of user-defined *SQL views* expressed by SQL queries that can be added on the fly. A key challenge in realizing this approach is to *orchestrate* multiple simultaneous abstractions that collectively affect the same underlying data.  To achieve this, Ravel enhances the database with novel data integration mechanisms that merge the multiple views into a coherent forwarding behavior. Moreover, Ravel is exposed to applications through the one simple, familiar and highly interoperable SQL interface. While this is an ambitious long-term goal, our prototype built on the PostgreSQL database exhibits promising performance even for large scale networks.
+
+- position paper [[SOSR'16]]({{site.url}}/pdf/sdndb/sosr_paper70.pdf)
 - abstraction and orchestration:
   [[SOSR'15 position paper]]({{site.url}}/pdf/sdndb/demo.pdf)
   [[SOSR'15 poster]]({{site.url}}/pdf/sdndb/ravel_SOSR15_poster.pdf)
   [(keynote)]({{site.url}}/pdf/sdndb/ravel_SOSR15_poster.key)
+  [[overview]]({{site.url}}/img/sdndb.jpg "overview")
 - concurrency control:
   [[ONS'14 position paper]]({{site.url}}/pdf/sdndb/ons14.pdf)
 
