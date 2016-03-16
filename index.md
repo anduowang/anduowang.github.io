@@ -14,8 +14,8 @@ Assistant professor <br>
 
 <adw@temple.edu><br>
 SERC 342, N 12th St, Philadelphia, PA 19122
-<br>
-(old site  <http://adw.web.engr.illinois.edu>)
+<!-- <br> -->
+<!-- (old site  <http://adw.web.engr.illinois.edu>) -->
 
 ----
 
