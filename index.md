@@ -19,8 +19,13 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 ----
 
+News
+: March 14: _Ravel: A Database-Defined Network_ presented at [SOSR '16](http://conferences.sigcomm.org/sosr/2016/) [[paper]](docs/sosr16.pdf) [[slides]](docs/SOSR16slide2.pdf) [[demo]](docs/demo.mp4)
+: March 14: [Ravel v0.1](https://github.com/ravel-net/ravel/releases/tag/v0.1) released
+
+
+----
+
 My research centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods.
 
 <u>I am looking for students and collaborators</u>. Have an appetite for solving system problems with theory-powered tools? Want to try out your ideas on the  exciting and rewarding problems? Check my [research]({{site.url}}/research.html) and [cv]({{site.url}}/pdf/cv_anduo.pdf).
-
-
