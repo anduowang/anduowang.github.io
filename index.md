@@ -20,9 +20,9 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 ----
 
 News
-: March 14: _Ravel: A Database-Defined Network_ presented at [SOSR '16](http://conferences.sigcomm.org/sosr/2016/) [[paper]](docs/sosr16.pdf) [[slides]](docs/SOSR16slide2.pdf) [[demo]](docs/demo.mp4)
-: March 14: [Ravel v0.1](https://github.com/ravel-net/ravel/releases/tag/v0.1) released
-: March: Ravel site up <http://ravel-net.org>
+: March 14, 2016: _Ravel: A Database-Defined Network_ presented at [SOSR '16](http://conferences.sigcomm.org/sosr/2016/) [[paper]](docs/sosr16.pdf) [[slides]](docs/SOSR16slide2.pdf) [[demo]](docs/demo.mp4)
+: March 14, 2016: [Ravel v0.1](https://github.com/ravel-net/ravel/releases/tag/v0.1) released
+: March, 2016: Ravel site up <http://ravel-net.org>
 
 ----
 
