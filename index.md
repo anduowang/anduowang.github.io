@@ -29,4 +29,4 @@ news
 <!-- My research  centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods. -->
 My **research interests** center around improving networked-systems with database techniques and formal methods.
 
-<u>I am looking for students and collaborators</u>. Do you want to change the networking practice by a simpler database-centered approach? Do you have an appetite for solving hard theory problems driven by the networking industry? Consider join me? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and shoot me an email.
+<u>I am looking for students and collaborators</u>. Do you want to change the networking practice by a simpler database-centered approach? Do you have an appetite for solving hard theory problems that could impact the networking industry? Consider join me? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and shoot me an email.
