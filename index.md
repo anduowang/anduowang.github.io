@@ -20,7 +20,7 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 ----
 
 news
-: May 31-July 25, 2016: Participate student mentoring in [REU at Temple](http://cis-linux1.temple.edu/~avinash/TUREU/index.html) (check our awesome site)
+: May 31-July 25, 2016: Faculty mentor, [REU at Temple](http://cis-linux1.temple.edu/~avinash/TUREU/index.html) (check our awesome site)
 : May 9-10, 2016: Talk on "Irrelevance reasoning for software-defined networking" at [ExCAPE meeting](https://excape.cis.upenn.edu/Penn_meetingMay15.html) [[slide](docs/excape-16.pdf)]
 : March 14, 2016: _Ravel: A Database-Defined Network_ presented at [SOSR'16](http://conferences.sigcomm.org/sosr/2016/) [[paper](docs/sosr16.pdf)] [[slides](docs/SOSR16slide2.pdf)] [[demo](docs/demo.mp4)]
 : March 14, 2016: [Ravel v0.1](https://github.com/ravel-net/ravel/releases/tag/v0.1) released
