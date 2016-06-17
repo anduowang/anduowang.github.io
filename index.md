@@ -21,6 +21,7 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 news
 : June 17, 2016: _SDN abstraction and security: a database perspective_, invited talk, [SoSSDN](http://publish.illinois.edu/science-of-security-lablet/workshop-on-science-of-security-through-software-defined-networking/)
+: June 16, 2016: _**NetSum**: Mining Summaries of Network Configuration Changes_, poster session, SoSSDN [[poster](docs/croft-sossdn-poster.pdf)]
 : May 31-July 25, 2016: Faculty mentor, [REU at Temple](http://cis-linux1.temple.edu/~avinash/TUREU/index.html)
 : May 9-10, 2016: _Irrelevance reasoning for software-defined networking_ at [ExCAPE meeting](https://excape.cis.upenn.edu/Penn_meetingMay15.html) [[slide](docs/excape-16.pdf)]
 : March 14, 2016: _Ravel: A Database-Defined Network_ presented at [SOSR'16](http://conferences.sigcomm.org/sosr/2016/) [[paper](docs/sosr16.pdf)] [[slides](docs/SOSR16slide2.pdf)] [[demo](docs/demo.mp4)]
