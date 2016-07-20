@@ -19,6 +19,14 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 ----
 
+<!-- My research  centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods. -->
+
+My **research interests** center around improving networked-systems with database techniques and formal methods. My current research projects focus on software-defined networks (SDN).
+
+<u>I am looking for students and collaborators</u>. Do you want to change the networking practice by a simpler database-centered approach? Do you have an appetite for solving hard theory problems that could impact the networking industry? Consider join me? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and shoot me an email.
+
+----
+
 news
 : June 17, 2016: _SDN abstraction and security: a database perspective_, invited talk, [SoSSDN](http://publish.illinois.edu/science-of-security-lablet/workshop-on-science-of-security-through-software-defined-networking/) [[slide](docs/SoSSDN-ravel.pdf)]
 : June 16, 2016: _**NetSum**: Mining Summaries of Network Configuration Changes_, poster session, SoSSDN [[poster](docs/croft-sossdn-poster.pdf)]
@@ -28,9 +36,3 @@ news
 : March 14, 2016: [Ravel v0.1](https://github.com/ravel-net/ravel/releases/tag/v0.1) released
 : March, 2016: Ravel site up <http://ravel-net.org>
 
-----
-
-<!-- My research  centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods. -->
-My **research interests** center around improving networked-systems with database techniques and formal methods.
-
-<u>I am looking for students and collaborators</u>. Do you want to change the networking practice by a simpler database-centered approach? Do you have an appetite for solving hard theory problems that could impact the networking industry? Consider join me? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and shoot me an email.
