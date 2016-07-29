@@ -28,6 +28,7 @@ My **research interests** center around improving networked-systems with databas
 ----
 
 news
+: July 21, 2015: REU [report](docs/Glaeser_final_REU_16.pdf)
 : June 17, 2016: _SDN abstraction and security: a database perspective_, invited talk, [SoSSDN](http://publish.illinois.edu/science-of-security-lablet/workshop-on-science-of-security-through-software-defined-networking/) [[slide](docs/SoSSDN-ravel.pdf)]
 : June 16, 2016: _**NetSum**: Mining Summaries of Network Configuration Changes_, poster session, SoSSDN [[poster](docs/croft-sossdn-poster.pdf)]
 : May 31-July 25, 2016: Faculty mentor, [REU at Temple](http://cis-linux1.temple.edu/~avinash/TUREU/index.html)
