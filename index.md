@@ -5,7 +5,7 @@ title: adw homepage
 
 # anduo wang
 
-<img class="fblogo" border="0" src="{{site.url}}/img/adw.jpg" height="150">
+<!-- <img class="fblogo" border="0" src="{{site.url}}/img/adw.jpg" height="150"> -->
 
 <!-- <adw@illinois.edu> <br> --> 
 
@@ -28,7 +28,8 @@ My **research interests** center around improving networked-systems with databas
 ----
 
 news
-: July 21, 2015: REU [report](docs/Glaeser_final_REU_16.pdf)
+: September 20, 2016: _Access control for database-centered network_ ([poster](https://github.com/ravel-net/REU-access-control/blob/master/NGlaeser-poster.pdf)) is selected for the poster awards of Sarnoff Symposium: [Noemi Glaeser (the only undergraduate author) receiving the award](http://sites.ieee.org/sarnoff2016/files/2016/10/IMG_2690.jpg)
+: July 21, 2016: Noemi Glaeser's REU [report](docs/Glaeser_final_REU_16.pdf)
 : June 17, 2016: _SDN abstraction and security: a database perspective_, invited talk, [SoSSDN](http://publish.illinois.edu/science-of-security-lablet/workshop-on-science-of-security-through-software-defined-networking/) [[slide](docs/SoSSDN-ravel.pdf)]
 : June 16, 2016: _**NetSum**: Mining Summaries of Network Configuration Changes_, poster session, SoSSDN [[poster](docs/croft-sossdn-poster.pdf)]
 : May 31-July 25, 2016: Faculty mentor, [REU at Temple](http://cis-linux1.temple.edu/~avinash/TUREU/index.html)
