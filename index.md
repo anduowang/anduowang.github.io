@@ -23,7 +23,7 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 My **research interests** center around improving networked-systems with database techniques and formal methods. My current research projects focus on software-defined networks (SDN).
 
-<u>I am looking for students and collaborators</u>. Do you want to change the networking practice by a simpler database-centered approach? Do you have an appetite for solving hard theory problems that could impact the networking industry? Consider join me? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and shoot me an email.
+<u>I am looking for students and collaborators</u>. Interested in rigorous methods and real-world problems? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and drop me an email.
 
 ----
 
@@ -37,4 +37,3 @@ news
 : March 14, 2016: _Ravel: A Database-Defined Network_ presented at [SOSR'16](http://conferences.sigcomm.org/sosr/2016/) [[paper](docs/sosr16.pdf)] [[slides](docs/SOSR16slide2.pdf)] [[demo](docs/demo.mp4)]
 : March 14, 2016: [Ravel v0.1](https://github.com/ravel-net/ravel/releases/tag/v0.1) released
 : March, 2016: Ravel site up <http://ravel-net.org>
-
