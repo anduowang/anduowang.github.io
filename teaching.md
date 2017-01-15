@@ -9,3 +9,4 @@ group: navigation
 course site: <http://cis-linux1.temple.edu/~tug29203/16-5590/>
 
 #### Spring 2017, CIS 3329 Network Architectures. ####
+course site: <http://cis-linux1.temple.edu/~tug29203/17-3329/>
