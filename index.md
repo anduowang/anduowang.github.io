@@ -28,7 +28,9 @@ My **research interests** center around improving networked-systems with databas
 ----
 
 news
-: September 20, 2016: _Access control for database-centered network_ ([poster](https://github.com/ravel-net/REU-access-control/blob/master/NGlaeser-poster.pdf)) is selected for the poster awards of Sarnoff Symposium: [Noemi Glaeser (the only undergraduate author) receiving the award](http://sites.ieee.org/sarnoff2016/files/2016/10/IMG_2690.jpg)
+: March, 2017: _Reflections on Data Integration for SDN_, accepted and presented at [SDN-NFV Security](https://www.cs.clemson.edu/nss/sdnfvsec2017/program.html) [[short paper](docs/reflection_short.pdf)]
+: February, 2017: _CRII: NeTS: Towards a database-defined network_, awared, ([more details](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657285&HistoricalAwards=false))
+: September 20, 2016: _Access control for database-centered network_ ([poster](https://github.com/ravel-net/REU-access-control/blob/master/NGlaeser-poster.pdf)), selected for the poster awards of Sarnoff Symposium: [Noemi Glaeser (the only undergraduate author) receiving the award](http://sites.ieee.org/sarnoff2016/files/2016/10/IMG_2690.jpg)
 : July 21, 2016: Noemi Glaeser's REU [report](docs/Glaeser_final_REU_16.pdf)
 : June 17, 2016: _SDN abstraction and security: a database perspective_, invited talk, [SoSSDN](http://publish.illinois.edu/science-of-security-lablet/workshop-on-science-of-security-through-software-defined-networking/) [[slide](docs/SoSSDN-ravel.pdf)]
 : June 16, 2016: _**NetSum**: Mining Summaries of Network Configuration Changes_, poster session, SoSSDN [[poster](docs/croft-sossdn-poster.pdf)]
