@@ -10,6 +10,12 @@ My research centers around designing and building manageable (network) systems t
 
 ----
 
+## deductive knowledge plane for SDN
+
+- _Automating SDN Composition: A Database Perspective_ SOSR'17 [[poster](docs/sosr17-poster-dependency.pdf)]
+
+----
+
 ## database-defined networking
 
 Software-defined networking (SDN) provides an unprecedented opportunity to exercise computing principles in simplifying networking practice. Indeed, many salient SDN features --- central control and programming interfaces --- are enabled by principles from the fields of programming language, operating systems, and distributed systems. While these principles have produced a variety of programming abstractions that drastically improve networking practice, reducing the complex distributed protocols to simpler centralized programs, there is little consensus on what are the right abstractions. Moreover, network architects today need to combine heterogeneous data sources --- network forwarding rules, data flow and QoS metrics, host intrusion alerts, and so on --- to produce a cohesive view of the network and investigate problems. To tackle the challenging network abstraction and integration problem, this project will explore the computing principle --- a principle blessed with decades of fruitful theories and commercial success, yet surprisingly under-investigated in SDN --- of database.
