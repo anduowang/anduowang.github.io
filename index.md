@@ -23,7 +23,7 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 My **research interests** center around improving networked-systems with database techniques and formal methods. My current research projects focus on software-defined networks (SDN).
 
-<u>I am looking for students and collaborators</u>. Interested in rigorous methods and real-world problems? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and drop me an email.
+<u>I am looking for self-motivated students</u>. Interested in rigorous methods and challenging real-world problems? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and drop me an email.
 
 ----
 
