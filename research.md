@@ -12,7 +12,7 @@ My research centers around designing and building manageable (network) systems t
 
 ## deductive knowledge plane for SDN
 
-- _Automating SDN Composition: A Database Perspective_ SOSR'17 [[extended abstract](docs/sosr17-poster-dependency.pdf)]
+- _Automating SDN Composition: A Database Perspective_ SOSR'17 [[extended abstract](docs/sosr17extendedabstract.pdf)]
 
 ----
 
