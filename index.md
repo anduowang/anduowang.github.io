@@ -28,7 +28,7 @@ My **research interests** center around improving networked-systems with databas
 ----
 
 news
-: April, 2018: _A Semantic Approach to Modularizing SDN Software_, Poster, [NSDI 18](https://www.usenix.org/conference/nsdi18/glance)
+: April, 2018: _A Semantic Approach to Modularizing SDN Software_, Poster, [NSDI 18](https://www.usenix.org/conference/nsdi18/glance) [[extended abstract](http://anduowang.github.io/docs/nsdi18posters-paper4.pdf)]
 : March, 2018: _Database Criteria for Network Policy Chain_, [SDN-NFV Security 18](https://www.cs.clemson.edu/nss/sdnfvsec2018/program.html)
 : April, 2017: _Automating SDN Composition: A Database Perspective_, SOSR'17 [[extended abstract](http://anduowang.github.io/docs/sosr17extendedabstract.pdf)] [[poster](http://anduowang.github.io/docs/sosr17poster.pdf)]
 : March, 2017: _Reflections on Data Integration for SDN_, [SDN-NFV Security 17](https://www.cs.clemson.edu/nss/sdnfvsec2017/program.html) [[short paper](docs/reflection_short.pdf)]
