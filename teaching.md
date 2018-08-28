@@ -6,6 +6,7 @@ group: navigation
 ---
 
 #### Fall 2018, CIS 3329 Network Architectures. ####
+course site: <http://cis-linux1.temple.edu/~tug29203/teaching/fall2018-3329/>
 
 #### Spring 2018, CIS 3329 Network Architectures. ####
 
