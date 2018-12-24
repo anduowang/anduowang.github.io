@@ -5,6 +5,10 @@ header : Post Archive
 group: navigation
 ---
 
+#### Spring 2019, CIS 5617 Computer Networking and Communication. ####
+
+course site: https://cis.temple.edu/~tug29203/19spring-5617/index.html
+
 #### Fall 2018, CIS 3329 Network Architectures. ####
 
 #### Spring 2018, CIS 3329 Network Architectures. ####
