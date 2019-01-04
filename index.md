@@ -28,6 +28,7 @@ My **research interests** center around improving networked-systems with databas
 ----
 
 news
+: November, 2018: _Policy and Resource Orchestration in Software-Defined Networks_ [CIC 2018](http://www.sis.pitt.edu/lersais/cic/2018/index.html)
 : August, 2018: _Towards Example-Guided Network Synthesis_, [APNet 2018](https://conferences.sigcomm.org/events/apnet2018/program.html) [[paper](https://dl.acm.org/citation.cfm?id=3234462)] [[slides](https://conferences.sigcomm.org/events/apnet2018/slides/facon.pdf)]
 : April, 2018: _A Semantic Approach to Modularizing SDN Software_, Poster, [NSDI 18](https://www.usenix.org/conference/nsdi18/glance) [[extended abstract](http://anduowang.github.io/docs/nsdi18posters-paper4.pdf)] [[poster](http://anduowang.github.io/docs/nsdi18poster.pdf)]
 : March, 2018: _Database Criteria for Network Policy Chain_, [SDN-NFV Security 18](https://www.cs.clemson.edu/nss/sdnfvsec2018/program.html)
