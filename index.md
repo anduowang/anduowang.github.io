@@ -29,7 +29,7 @@ My **research interests** center around improving networked-systems with databas
 
 news
 : June, 2019: _A Logical Approach to Representing and Reasoning About Interdomain Routing Policies_ [DATALOG 2.0 2019](https://sites.sju.edu/plw/datalog2/)
-: June, 2019: _Internet Routing and Non-monotonic Reasoning_ [LPNMR 2019](https://sites.sju.edu/plw/lpnmr-2019/)
+: June, 2019: _Internet Routing and Non-monotonic Reasoning_ [LPNMR 2019](https://sites.sju.edu/plw/lpnmr-2019/) [[paper](http://anduowang.github.io/docs/lpnmr19.pdf)]
 : April, 2019: _Enabling Policy Innovation in Interdomain Routing: A Software-Defined Approach_ [SOSR 2019](https://conferences.sigcomm.org/sosr/2019/) [[paper](http://anduowang.github.io/docs/p94.pdf)] [[slide](http://anduowang.github.io/docs/p94-sosr19.pdf)]
 : November, 2018: _Policy and Resource Orchestration in Software-Defined Networks_ [CIC 2018](http://www.sis.pitt.edu/lersais/cic/2018/index.html)
 : August, 2018: _Towards Example-Guided Network Synthesis_, [APNet 2018](https://conferences.sigcomm.org/events/apnet2018/program.html) [[paper](https://dl.acm.org/citation.cfm?id=3234462)] [[slides](https://conferences.sigcomm.org/events/apnet2018/slides/facon.pdf)]
