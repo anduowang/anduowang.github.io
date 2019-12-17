@@ -34,7 +34,7 @@ In the [Ravel project](http://ravel-net.org/), in particular, we ask, whether an
 ----
 
 news
-: August, 2019: _CNS Core: Small: Towards a Knowledge Plane for Coordinating Network Policies_, awarded, ([NSF link](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_windowLabel=rsrViewAllAwards_1_2&wsrp-urlType=blockingAction&wsrp-url=&wsrp-requiresRewrite=&wsrp-navigationalState=eJyLL07OL0i1Tc-JT0rMUYNQtgBZ6Af8&wsrp-interactionState=wlprsrViewAllAwards_1_2_action%3DviewRsrDetail%26wlprsrViewAllAwards_1_2_fedAwrdId%3D1909450&wsrp-mode=wsrp%3Aview&wsrp-windowState=))
+: August, 2019: _CNS Core: Small: Towards a Knowledge Plane for Coordinating Network Policies_, awarded, ([NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false)
 : August, 2019: _Rethinking Network Policy Coordination: A Database Perspective_ [APNET 2019](https://conferences.sigcomm.org/events/apnet2019/) [[paper](http://anduowang.github.io/docs/apnet19.pdf)] [[slides](http://anduowang.github.io/docs/apnet19-talk.pdf)]
 : June, 2019: _A Logical Approach to Representing and Reasoning About Interdomain Routing Policies_ [DATALOG 2.0 2019](https://sites.sju.edu/plw/datalog2/) [[paper](http://anduowang.github.io/docs/datalog20-10.pdf)] [[slides](http://anduowang.github.io/docs/datalog20_19_talk.pdf)]
 : June, 2019: _Internet Routing and Non-monotonic Reasoning_ [LPNMR 2019](https://sites.sju.edu/plw/lpnmr-2019/) [[paper](http://anduowang.github.io/docs/lpnmr19.pdf)] [[slides](http://anduowang.github.io/docs/lpnmr19_talk.pdf)]
