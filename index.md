@@ -29,7 +29,7 @@ In the [Ravel project](http://ravel-net.org/), in particular, we ask, whether an
 
 <!-- My current research projects focus on software-defined networks (SDN). --> <!-- I work with my student [Zhijia Chen](https://zhijiachen.github.io/) on the [Ravel project](http://ravel-net.org/). -->
 
-<u>I am recruiting PhD students</u>. If you are interested in rigorous methods --- mathematics, database techniques, formal methods, programming languages, and challenging real-world problems --- the Internet, the most exciting trends in today's networking? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf), and drop me an email.
+<u>I am recruiting PhD students</u>. If you are interested in rigorous methods and challenging real-world problems --- mathematics, database techniques, formal methods, programming languages, the long-standing Internet, and the exciting trends in today's networks --- check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf), and drop me an email.
 
 ----
 
