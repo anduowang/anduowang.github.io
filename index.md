@@ -21,7 +21,7 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 <!-- My research  centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods. -->
 
-My **research interests** center around improving networked-systems with database techniques and formal methods.
+My **research interests** center around improving networked-systems with rigorous methods.
 
 In the [Ravel project](http://ravel-net.org/), in particular, we ask, whether and how can database systems, equally renowned for mediating factual data and its semantic meaning, help managing the semantic network data — network policies that are driving the behaviors of such complex environments such as software defined networks (SDNs) and interdomain routing (BGP).
 
@@ -29,7 +29,7 @@ In the [Ravel project](http://ravel-net.org/), in particular, we ask, whether an
 
 <!-- My current research projects focus on software-defined networks (SDN). --> <!-- I work with my student [Zhijia Chen](https://zhijiachen.github.io/) on the [Ravel project](http://ravel-net.org/). -->
 
-<u>I am looking for self-motivated students</u>. Interested in rigorous methods and challenging real-world problems? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf) for more details, and drop me an email.
+<u>I am recruiting PhD students</u>. If you are interested in rigorous methods --- mathematics, database techniques, formal methods, programming languages, and challenging real-world problems --- the Internet, the most exciting trends in today's networking? Check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf), and drop me an email.
 
 ----
 
