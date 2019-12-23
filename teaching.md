@@ -9,9 +9,9 @@ group: navigation
 
 - [ACM SIGCOMM Information Services Director](http://sigcomm.org/about/people), Appointed July 2017 to July 2021 (expected)
 - General Chair, [ACM ACM Symposium on SDN Research, 2020](https://conferences.sigcomm.org/sosr/2020/)
-- Technical Program Committee, (ACM ACM Symposium on SDN Research, 2020)[https://conferences.sigcomm.org/sosr/2020/]
-- Technical Program Committee, (ACM/IEEE Symposium on Architectures for Networking and Communications Systems, 2019)[http://www.ancsconf.org/]
-- Technical Program Committee, (ACM ACM Symposium on SDN Research, 2019)[https://conferences.sigcomm.org/sosr/2019/]
+- Technical Program Committee, [ACM ACM Symposium on SDN Research, 2020](https://conferences.sigcomm.org/sosr/2020/)
+- Technical Program Committee, [ACM/IEEE Symposium on Architectures for Networking and Communications Systems, 2019](http://www.ancsconf.org/)
+- Technical Program Committee, [ACM ACM Symposium on SDN Research, 2019](https://conferences.sigcomm.org/sosr/2019/)
 - Technical Program Committee, First ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S\&P 2017)
 - Technical Program Committee, The 37th IEEE International Conference on Distributed Computing
 - Student Travel Grant Chair, The ACM Symposium on SDN Research (SOSR) 2017
