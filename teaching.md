@@ -7,17 +7,17 @@ group: navigation
 
 ### Services
 
-- [SIGCOMM ISD] ACM SIGCOMM Information Services Director, Appointed July 2017 to July 2021 (expected)
-- [SOSR 2020] General Chair, ACM ACM Symposium on SDN Research, 2020
-- [SOSR 2020] Technical Program Committee, ACM ACM Symposium on SDN Research, 2020
-- [ANCS 2019] Technical Program Committee, ACM/IEEE Symposium on Architectures for Networking and Communications Systems, 2019
-- [SOSR 2019] Technical Program Committee, ACM ACM Symposium on SDN Research, 2019
-- [IoT S\&P 2017] Technical Program Committee, First ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S\&P 2017)
-- [ICDCS 2017] Technical Program Committee, The 37th IEEE International Conference on Distributed Computing
-- [SOSR 2017] Student Travel Grant Chair, The ACM Symposium on SDN Research (SOSR) 2017
-- [SDNNFVSEC 2017] Technical Program Committee, ACM International Workshop on Security in Software Defined Networks \& Network Function Virtualization
-- [HotPNS 2016] TPC co-chair, The International Workshop on Hot Topics in Practical Networked Systems
-- [SDNNFVSEC 2016] Technical Program Committee, ACM International Workshop on Security in Software Defined Networks \& Network Function Virtualization
+- [ACM SIGCOMM Information Services Director](http://sigcomm.org/about/people), Appointed July 2017 to July 2021 (expected)
+- General Chair, [ACM ACM Symposium on SDN Research, 2020](https://conferences.sigcomm.org/sosr/2020/)
+- Technical Program Committee, (ACM ACM Symposium on SDN Research, 2020)[https://conferences.sigcomm.org/sosr/2020/]
+- Technical Program Committee, (ACM/IEEE Symposium on Architectures for Networking and Communications Systems, 2019)[http://www.ancsconf.org/]
+- Technical Program Committee, (ACM ACM Symposium on SDN Research, 2019)[https://conferences.sigcomm.org/sosr/2019/]
+- Technical Program Committee, First ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S\&P 2017)
+- Technical Program Committee, The 37th IEEE International Conference on Distributed Computing
+- Student Travel Grant Chair, The ACM Symposium on SDN Research (SOSR) 2017
+- Technical Program Committee, ACM International Workshop on Security in Software Defined Networks \& Network Function Virtualization
+- TPC co-chair, The International Workshop on Hot Topics in Practical Networked Systems
+- Technical Program Committee, ACM International Workshop on Security in Software Defined Networks \& Network Function Virtualization
 
 ### Teaching
 
