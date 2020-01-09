@@ -24,15 +24,15 @@ group: navigation
 - Spring 2020, CIS 5617 Computer Networking and Communication
 - Fall 2019, CIS 4319 Computer Networking and Communication:
 <!-- course site: <https://cis.temple.edu/~tug29203/19fall-4319/index.html> -->
-- 2019, CIS 5617 Computer Networking and Communication
+- Spring 2019, CIS 5617 Computer Networking and Communication
 <!-- course site: <https://cis.temple.edu/~tug29203/19spring-5617/index.html> -->
-- 2018, CIS 3329 Network Architectures.
+- Fall 2018, CIS 3329 Network Architectures.
 <!-- course site: <http://cis-linux1.temple.edu/~tug29203/teaching/fall2018-3329/> -->
-- 2018, CIS 3329 Network Architectures.
+- Spring 2018, CIS 3329 Network Architectures.
 <!-- course site: <http://cis-linux1.temple.edu/~tug29203/18spring-3329/> -->
-- 2017, CIS 3329 Network Architectures.
+- Fall 2017, CIS 3329 Network Architectures.
 <!-- course site: <http://cis-linux1.temple.edu/~tug29203/17fall-3329/> -->
-- 2017, CIS 3329 Network Architectures.
+- Spring 2017, CIS 3329 Network Architectures.
 <!-- course site: <http://cis-linux1.temple.edu/~tug29203/17-3329/> -->
-- 2016, CIS 5590: Software Defined Networking:
+- Fall 2016, CIS 5590: Software Defined Networking:
 course site: <http://cis-linux1.temple.edu/~tug29203/16-5590/>
