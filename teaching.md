@@ -21,7 +21,8 @@ group: navigation
 
 ### Teaching
 
-- Spring 2020, CIS 5617 Computer Networking and Communication
+- Spring 2020, CIS 5617 Computer Networking and Communication <br>
+course site: <http://cis-linux1.temple.edu/~tug29203/20spring-5617/>
 - Fall 2019, CIS 4319 Computer Networking and Communication.
 <!-- course site: <https://cis.temple.edu/~tug29203/19fall-4319/index.html> -->
 - Spring 2019, CIS 5617 Computer Networking and Communication
