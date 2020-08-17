@@ -21,8 +21,10 @@ group: navigation
 
 ### Teaching
 
+- Fall 2020, CIS 5590: Software Defined Networking <br>
+course site: <http://cis-linux1.temple.edu/~tug29203/20-5590/>
 - Spring 2020, CIS 5617 Computer Networking and Communication <br>
-course site: <http://cis-linux1.temple.edu/~tug29203/20spring-5617/>
+<!-- course site: <http://cis-linux1.temple.edu/~tug29203/20spring-5617/> -->
 - Fall 2019, CIS 4319 Computer Networking and Communication.
 <!-- course site: <https://cis.temple.edu/~tug29203/19fall-4319/index.html> -->
 - Spring 2019, CIS 5617 Computer Networking and Communication
@@ -36,4 +38,4 @@ course site: <http://cis-linux1.temple.edu/~tug29203/20spring-5617/>
 - Spring 2017, CIS 3329 Network Architectures.
 <!-- course site: <http://cis-linux1.temple.edu/~tug29203/17-3329/> -->
 - Fall 2016, CIS 5590: Software Defined Networking <br>
-course site: <http://cis-linux1.temple.edu/~tug29203/16-5590/>
+<!-- course site: <http://cis-linux1.temple.edu/~tug29203/16-5590/> -->
