@@ -34,7 +34,7 @@ In the [Ravel project](http://ravel-net.org/), in particular, we ask, whether an
 ----
 
 news
-: May, 2020: _Analyzing Internet Routing Policies with Answer Set Programming_, [TEASE-LP 2020](https://www.coalg.org/tease-lp/) [[paper](http://anduowang.github.io/docs/TEASE-LP20.pdf)] [[slides](http://anduowang.github.io/docs/TEASE-LP20-talk.key)] [[paper](http://anduowang.github.io/docs/tease.pdf)]
+: May, 2020: _Analyzing Internet Routing Policies with Answer Set Programming_, [TEASE-LP 2020](https://www.coalg.org/tease-lp/) [[paper](http://anduowang.github.io/docs/TEASE-LP20.pdf)] [[slides](http://anduowang.github.io/docs/TEASE-LP20-talk.key)] 
 : August, 2019: _CNS Core: Small: Towards a Knowledge Plane for Coordinating Network Policies_, awarded, ([NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false))
 : August, 2019: _Rethinking Network Policy Coordination: A Database Perspective_ [APNET 2019](https://conferences.sigcomm.org/events/apnet2019/) [[paper](http://anduowang.github.io/docs/apnet19.pdf)] [[slides](http://anduowang.github.io/docs/apnet19-talk.pdf)]
 : June, 2019: _A Logical Approach to Representing and Reasoning About Interdomain Routing Policies_ [DATALOG 2.0 2019](https://sites.sju.edu/plw/datalog2/) [[paper](http://anduowang.github.io/docs/datalog20-10.pdf)] [[slides](http://anduowang.github.io/docs/datalog20_19_talk.pdf)]
