@@ -34,6 +34,9 @@ In the [Ravel project](http://ravel-net.org/), in particular, we ask, whether an
 ----
 
 news
+: August, 2021: _Sarasate: A Strong Representation System for Networking Policies_, [SIGCOMM 2021 demo](https://conferences.sigcomm.org/sigcomm/2021/cf-posters.html) [[Extended abstract](http://anduowang.github.io/docs/sigcomm2021demo.pdf)]
+: July, 2021: _Towards a Semantic Framework for Policy Exchange in the Internet_, [LFMTP 2021](https://lfmtp.org/workshops/2021/program.shtml) [[paper](http://anduowang.github.io/docs/lfmtp2021.pdf)]
+: June, 2021: _Flexible Routing with Policy Exchange_, [APNet 2021](https://conferences.sigcomm.org/events/apnet2021/) [[paper](http://anduowang.github.io/docs/apnet2021.pdf)] [[slides](http://anduowang.github.io/docs/apnet21-talk.key)]
 : May, 2020: _Analyzing Internet Routing Policies with Answer Set Programming_, [TEASE-LP 2020](https://www.coalg.org/tease-lp/) [[paper](http://anduowang.github.io/docs/TEASE-LP20.pdf)] [[slides](http://anduowang.github.io/docs/TEASE-LP20-talk.key)]
 : March, 2020: _A Case of Knowledge-driven Policy Management: Bringing Discipline to Internet Routing_, [SOSR 2020](https://conferences.sigcomm.org/sosr/2020/index.html) [[poster](http://anduowang.github.io/docs/sosr20posters-paper4.pdf)]
 : August, 2019: _CNS Core: Small: Towards a Knowledge Plane for Coordinating Network Policies_, awarded, ([NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false))
