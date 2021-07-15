@@ -21,6 +21,8 @@ group: navigation
 
 ### Teaching
 
+- Fall 2021, CIS 4319 Computer Networking and Communication.
+- Spring 2021, CIS 3329: Network Architectures.
 - Fall 2020, CIS 5590: Software Defined Networking <br>
 course site: <http://cis-linux1.temple.edu/~tug29203/20-5590/>
 - Spring 2020, CIS 5617 Computer Networking and Communication <br>
