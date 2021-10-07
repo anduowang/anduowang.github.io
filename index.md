@@ -23,7 +23,10 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 My **research interests** center around improving networked-systems with rigorous methods.
 
-In the [Ravel project](http://ravel-net.org/), in particular, we ask, whether and how can database systems, equally renowned for mediating factual data and its semantic meaning, help managing the semantic network data — network policies that are driving the behaviors of such complex environments such as software defined networks (SDNs) and interdomain routing (BGP).
+
+In particular, computer networking today is increasingly hard to manage. This is in sharp contrast to relational data structured in a database that allows easy access and rapid innovation. In this project, we ask why cannot (or how can) we turn network management into a data problem that can be automated in modern databases. In the [Ravel project](http://ravel-net.org/), we study how unique network challenges can be addressed with unconventional database techniques.
+
+<!-- in particular, we ask, whether and how can database systems, equally renowned for mediating factual data and its semantic meaning, help managing the semantic network data — network policies that are driving the behaviors of such complex environments such as software defined networks (SDNs) and interdomain routing (BGP). -->
 
 <!-- we ask while database usage in the context of networking has been focusing on managing factual data — network state, my current focus asks  -->
 
