@@ -21,10 +21,14 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 <!-- My research  centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods. -->
 
-My **research interests** center around improving networked-systems with rigorous methods.
+My **research interests** center around improving networked-systems with rigorous methods. 
 
+In particular, in the battle with system complexity, if knowledge representation and logic reasoning give a deep answer, does networking make a profitable problem? My research (supported by the National Science Foundation [Award CNS-1909450](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false) and [CNS 1657285](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657285&HistoricalAwards=false)) explores the pain points in today's network analysis and management --- such as unavailable information, uncertain environments, and non-monotonic dynamic behaviors --- to motivate initial conjectures to this question.  <!-- _Why a database?_ SDN fundamentally revolves around data representation--representation of the network topology and forwarding, as well as the higher-level abstractions useful to applications. -->
+More technical details can also be found in the [Ravel project](http://ravel-net.org/).
 
-In particular, computer networking today is increasingly hard to manage. This is in sharp contrast to relational data structured in a database that allows easy access and rapid innovation. In this project, we ask why cannot (or how can) we turn network management into a data problem that can be automated in modern databases. In the [Ravel project](http://ravel-net.org/), we study how unique network challenges can be addressed with unconventional database techniques.
+<!-- computer networking today is increasingly hard to manage. This is in sharp contrast to relational data structured in a database that allows easy access and rapid innovation. In this project, we ask why cannot (or how can) we turn network management into a data problem that can be automated in modern databases. --> 
+
+<!-- we study how unique network challenges can be addressed with unconventional database techniques. -->
 
 <!-- in particular, we ask, whether and how can database systems, equally renowned for mediating factual data and its semantic meaning, help managing the semantic network data — network policies that are driving the behaviors of such complex environments such as software defined networks (SDNs) and interdomain routing (BGP). -->
 
