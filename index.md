@@ -41,7 +41,7 @@ More technical details can also be found in the [Ravel project](http://ravel-net
 ----
 
 news
-: January, 2022: _A Network Use for Incomplete Knowledge Management_, [CIDR 2022](http://cidrdb.org/cidr2022/cfp.html) [extended abstract]
+: January, 2022: _A Network Use for Incomplete Knowledge Management_, [CIDR 2022](http://cidrdb.org/cidr2022/cfp.html) [[extended abstract](http://anduowang.github.io/docs/cidr22-extended-abstract.pdf)] [[slides](http://anduowang.github.io/docs/cidr22-short.pdf)]
 : November, 2021: _Faure: A Partial Approach to Network Analysis_, [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021/) [[paper](http://anduowang.github.io/docs/faure.pdf)]
 : August, 2021: _Sarasate: A Strong Representation System for Networking Policies_, [SIGCOMM 2021 demo](https://conferences.sigcomm.org/sigcomm/2021/cf-posters.html) [[Extended abstract](http://anduowang.github.io/docs/sigcomm2021demo.pdf)]
 : July, 2021: _Towards a Semantic Framework for Policy Exchange in the Internet_, [LFMTP 2021](https://lfmtp.org/workshops/2021/program.shtml)
