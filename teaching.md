@@ -7,7 +7,8 @@ group: navigation
 
 ### Services
 
-- [ACM SIGCOMM Information Services Director](http://sigcomm.org/about/people), Appointed July 2017 to July 2021 (expected)
+- [ACM SIGCOMM Information Services Director](http://sigcomm.org/about/people), Appointed July 2017 to July 2021
+- Technical Program Committee, [ACM ACM Symposium on SDN Research, 2021](https://conferences.sigcomm.org/sosr/2021/)
 - General Chair, [ACM ACM Symposium on SDN Research, 2020](https://conferences.sigcomm.org/sosr/2020/)
 - Technical Program Committee, [ACM ACM Symposium on SDN Research, 2020](https://conferences.sigcomm.org/sosr/2020/)
 - Technical Program Committee, [ACM/IEEE Symposium on Architectures for Networking and Communications Systems, 2019](http://www.ancsconf.org/)
@@ -21,6 +22,7 @@ group: navigation
 
 ### Teaching
 
+- Spring 2022, CIS 4319 Computer Networking and Communication.
 - Fall 2021, CIS 4319 Computer Networking and Communication.
 - Spring 2021, CIS 3329: Network Architectures.
 - Fall 2020, CIS 5590: Software Defined Networking <br>
