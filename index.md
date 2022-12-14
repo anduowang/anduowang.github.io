@@ -5,7 +5,7 @@ title: adw homepage
 
 # anduo wang
 
-<!-- <img class="fblogo" border="0" src="{{site.url}}/img/adw.jpg" height="150"> -->
+<img class="fblogo" border="0" src="{{site.url}}/img/aw.jpg" height="150">
 
 <!-- <adw@illinois.edu> <br> --> 
 
