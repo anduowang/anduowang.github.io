@@ -31,7 +31,7 @@ In particular, I consider semantic network management a new frontier in network 
 
 <!-- <u>I am recruiting PhD students</u>. If you are interested in rigorous methods and challenging real-world problems --- mathematics, database techniques, formal methods, programming languages, the long-standing Internet, and the exciting trends in today's networks --- check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf), and drop me an email. -->
 
-My current and past projects (more at the [Ravel project](http://ravel-net.org/) site) have been supported by several NSF awards ([Award CNS-1909450](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false), [CNS 1657285](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657285&HistoricalAwards=false), and NSF CAREER 2145242)
+My current and past projects (more at the [Ravel project](http://ravel-net.org/) site) have been supported by several NSF awards ([Award CNS-1909450](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false), [CNS 1657285](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657285&HistoricalAwards=false), and NSF CAREER 2145242).
 
 ----
 
