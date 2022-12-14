@@ -21,22 +21,17 @@ SERC 342, N 12th St, Philadelphia, PA 19122
 
 <!-- My research  centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods. -->
 
-My **research interests** center around improving networked-systems with rigorous methods. 
+My **research** improves networked-systems with rigorous methods. 
 
-In particular, in the battle with system complexity, if knowledge representation and logic reasoning give a deep answer, does networking make a profitable problem? My research (supported by the National Science Foundation [Award CNS-1909450](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false) and [CNS 1657285](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657285&HistoricalAwards=false)) explores the pain points in today's network analysis and management --- such as unavailable information, uncertain environments, and non-monotonic dynamic behaviors --- to motivate initial conjectures to this question.  <!-- _Why a database?_ SDN fundamentally revolves around data representation--representation of the network topology and forwarding, as well as the higher-level abstractions useful to applications. -->
-More technical details can also be found in the [Ravel project](http://ravel-net.org/).
+<!-- In particular, in the battle with system complexity, if knowledge representation and logic reasoning give a deep answer, does networking make a profitable problem? My research (supported by the National Science Foundation [Award CNS-1909450](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false) and [CNS 1657285](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657285&HistoricalAwards=false)) explores the pain points in today's network analysis and management --- such as unavailable information, uncertain environments, and non-monotonic dynamic behaviors --- to motivate initial conjectures to this question.  <\!-- _Why a database?_ SDN fundamentally revolves around data representation--representation of the network topology and forwarding, as well as the higher-level abstractions useful to applications. -\-> -->
+<!-- More technical details can also be found in the [Ravel project](http://ravel-net.org/). -->
 
-<!-- computer networking today is increasingly hard to manage. This is in sharp contrast to relational data structured in a database that allows easy access and rapid innovation. In this project, we ask why cannot (or how can) we turn network management into a data problem that can be automated in modern databases. --> 
+In particular, I consider semantic network management a new frontier in network advancement, and seek practical solutions by digging deeper into databases theories, while also borrowing heavily from knowledge representation and reasoning, programming languages, and formal methods. As computer networks become more programmable and complex, and as the networking community's effort in adapting solutions from other disciplines (\eg operating system, software engineering) steadily grows, it becomes a good time to revisit classical as well as unconventional database notions, so as to make a practical impact deserved by the database theories' true power, and to bring into network management a practical discipline that has been long sought-after.
 
-<!-- we study how unique network challenges can be addressed with unconventional database techniques. -->
 
-<!-- in particular, we ask, whether and how can database systems, equally renowned for mediating factual data and its semantic meaning, help managing the semantic network data — network policies that are driving the behaviors of such complex environments such as software defined networks (SDNs) and interdomain routing (BGP). -->
+<!-- <u>I am recruiting PhD students</u>. If you are interested in rigorous methods and challenging real-world problems --- mathematics, database techniques, formal methods, programming languages, the long-standing Internet, and the exciting trends in today's networks --- check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf), and drop me an email. -->
 
-<!-- we ask while database usage in the context of networking has been focusing on managing factual data — network state, my current focus asks  -->
-
-<!-- My current research projects focus on software-defined networks (SDN). --> <!-- I work with my student [Zhijia Chen](https://zhijiachen.github.io/) on the [Ravel project](http://ravel-net.org/). -->
-
-<u>I am recruiting PhD students</u>. If you are interested in rigorous methods and challenging real-world problems --- mathematics, database techniques, formal methods, programming languages, the long-standing Internet, and the exciting trends in today's networks --- check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf), and drop me an email.
+My current and past projects (more at the [Ravel project](http://ravel-net.org/) site) have been supported by several NSF awards ([Award CNS-1909450](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false), [CNS 1657285](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657285&HistoricalAwards=false), and NSF CAREER 2145242)
 
 ----
 
