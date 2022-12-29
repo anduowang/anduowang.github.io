@@ -12,7 +12,7 @@ title: adw homepage
 Assistant professor <br> 
 [Computer and Information Science](http://www.temple.edu/cis/ "Title"), [Temple University](http://www.temple.edu/ "Title")
 
-<adw@temple.edu><br>
+<anduo.wang@gmail.com><br>
 SERC 342, N 12th St, Philadelphia, PA 19122
 <!-- <br> -->
 <!-- (old site  <http://adw.web.engr.illinois.edu>) -->
