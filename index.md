@@ -9,7 +9,7 @@ title: adw homepage
 
 <!-- <adw@illinois.edu> <br> --> 
 
-Assistant professor <br> 
+Associate Professor <br> 
 [Computer and Information Science](http://www.temple.edu/cis/ "Title"), [Temple University](http://www.temple.edu/ "Title")
 
 <anduo.wang@gmail.com><br>
