@@ -36,8 +36,8 @@ My current and past projects (more at the [Ravel project](http://ravel-net.org/)
 ----
 
 news
-: October, 2023: Structural Semantics Management: an Application of the Chase in Networking, MASCOTS23
-: September, 2023: Demo: Structural Network Minimization: A Case of Reflective Networking, SIGCOMM demonstration
+: October, 2023: Structural Semantics Management: an Application of the Chase in Networking, [MASCOTS23](https://mascots.iitis.pl/) [[paper](http://anduowang.github.io/docs/MASCOTS23-camera.pdf)] [[slides](http://anduowang.github.io/docs/MASCOTS23-slide.pdf)]
+: September, 2023: Demo: Structural Network Minimization: A Case of Reflective Networking, SIGCOMM demonstration 
 : May, 2023: Indirect Network Troubleshooting with The Chase, APNet demonstration
 : July, 2022: _CAREER: Logical Reasoning of Networks with Partial Knowledge_, awarded
 : January, 2022: _A Network Use for Incomplete Knowledge Management_, [CIDR 2022](http://cidrdb.org/cidr2022/cfp.html) [[extended abstract](http://anduowang.github.io/docs/cidr22-extended-abstract.pdf)] [[slides](http://anduowang.github.io/docs/cidr22-short.pdf)]
