@@ -35,6 +35,15 @@ My current and past projects (more at the [Ravel project](http://ravel-net.org/)
 
 ----
 
+selected publication
+
+: _Faure: A Partial Approach to Network Analysis_, [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021/) [[paper](http://anduowang.github.io/docs/faure.pdf)] [[slides](http://anduowang.github.io/docs/faure-hotnets.pdf)]
+: _Internet Routing and Non-monotonic Reasoning_ [LPNMR 2019](https://sites.sju.edu/plw/lpnmr-2019/) [[paper](http://anduowang.github.io/docs/lpnmr19.pdf)] [[slides](http://anduowang.github.io/docs/lpnmr19_talk.pdf)]
+: _Ravel: A Database-Defined Network_, [SOSR'16](http://conferences.sigcomm.org/sosr/2016/) [[paper](docs/sosr16.pdf)] [[slides](docs/SOSR16slide2.pdf)] [[demo](docs/demo.mp4)]
+: _A Reduction-based Approach Towards Scaling Up Formal Analysis of Internet Configurations_, [INFOCOM'14](https://infocom2014.ieee-infocom.org/), [[paper](docs/reduction.pdf)]
+: _Formally Verifiable Networking_, [HotNets'09](https://conferences.sigcomm.org/hotnets/2009/) [[paper](Formally_Verifiable_Networking.pdf)]
+
+
 news
 : October, 2023: Structural Semantics Management: an Application of the Chase in Networking, [MASCOTS23](https://mascots.iitis.pl/) [[paper](http://anduowang.github.io/docs/MASCOTS23-camera.pdf)] [[slides](http://anduowang.github.io/docs/MASCOTS23-slide.pdf)]
 : September, 2023: Demo: Structural Network Minimization: A Case of Reflective Networking, SIGCOMM demonstration 
