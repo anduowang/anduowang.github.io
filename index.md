@@ -5,7 +5,7 @@ title: adw homepage
 
 # anduo wang
 
-<img class="fblogo" border="0" src="{{site.url}}/img/aw.jpg" height="150">
+<!-- <img class="fblogo" border="0" src="{{site.url}}/img/aw.jpg" height="150"> -->
 
 <!-- <adw@illinois.edu> <br> --> 
 
@@ -29,7 +29,7 @@ My **research** improves networked-systems with rigorous methods.
 In particular, I consider semantic network management a new frontier in network advancement, and seek practical solutions by digging deeper into databases theories, while also borrowing heavily from knowledge representation and reasoning, programming languages, and formal methods. As computer networks become more programmable and complex, and as the networking community's effort in adapting solutions from other disciplines (eg., operating system, software engineering) steadily grows, it becomes a good time to revisit classical as well as unconventional database notions, so as to make a practical impact deserved by the database theories' true power, and to bring into network management a practical discipline that has been long sought-after.
 
 
-<!-- <u>I am recruiting PhD students</u>. If you are interested in rigorous methods and challenging real-world problems --- mathematics, database techniques, formal methods, programming languages, the long-standing Internet, and the exciting trends in today's networks --- check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv_anduo.pdf), and drop me an email. -->
+<!-- <u>I am recruiting PhD students</u>. If you are interested in rigorous methods and challenging real-world problems --- mathematics, database techniques, formal methods, programming languages, the long-standing Internet, and the exciting trends in today's networks --- check my [research]({{site.url}}/research.html), [cv]({{site.url}}/pdf/cv.pdf), and drop me an email. -->
 
 My current and past projects (more at the [Ravel project](http://ravel-net.org/) site) have been supported by several NSF awards ([Award CNS-1909450](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1909450&HistoricalAwards=false), [CNS 1657285](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657285&HistoricalAwards=false), and NSF CAREER 2145242).
 
