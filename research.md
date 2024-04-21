@@ -6,13 +6,24 @@ group: navigation
 ---
 
 <!-- # research -->
-My research centers around designing and building manageable (network) systems that leverage and re-ignite interests in database and formal methods.
+My research centers around designing and building manageable (network) systems by borrowing elegant ideas from formal methods, databases, knowledge representation and reasoning, logic-based artificial intelligence, and more.
 
 ----
 
-## deductive knowledge plane for provably correct SDN integration
+## enabling agile network management with logic programming
 
-- _Automating SDN Composition: A Database Perspective_ SOSR'17 [[extended abstract](docs/sosr17extendedabstract.pdf)] [[poster](docs/sosr17poster.pdf)]
+The networking community is currently undergoing an exciting transition from guess-work protocols to disciplined software: Most research efforts involve adapting formal methods, often assuming a clean-slate, stand-alone, closed system architecture, for networking, utilizing highly optimized programming and reasoning tools tailored for specific problems. To tackle challenges that do not readily fit into these techniques, this project proposes rapid prototyping by a general logic programming platform. The key observation is that most ``unconventional'' problems in networks arise from uncertain and asynchronous events, multiple stakeholders and non-expert users, and diverse requirements that are ad-hoc and ever-changing. Many of these issues mirror those extensively studied in logic programming and its many fruitful application domains. As a first step to materialize this insight and to show the feasibility of using logic programming as a rapid prototyping tool, we develop (1) a general model for networks under uncertain and asynchronous events by extending the relation structures, addressing a challenge in existing network verification; and (2) a general network transformation system by exploiting the meta-logical feature of logic programming, subsuming earlier specialized network tools.
+
+We emphasize that while a complete and final solution to formally managed networks is beyond the scope of this paper, we hope rapid prototyping with logic programming can pave the way to accelerate the migration from guesswork to formally managed networks.
+
+- _Structural Semantics Management: an Application of the Chase in Networking_ [MASCOTS23](https://mascots.iitis.pl/) [[paper](http://anduowang.github.io/docs/MASCOTS23-camera.pdf)] [[slides](http://anduowang.github.io/docs/MASCOTS23-slide.pdf)]
+- _Faure: A Partial Approach to Network Analysis_, [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021/) [[paper](http://anduowang.github.io/docs/faure.pdf)] [[slides](http://anduowang.github.io/docs/faure-hotnets.pdf)]
+- _Internet Routing and Non-monotonic Reasoning_ [LPNMR 2019](https://sites.sju.edu/plw/lpnmr-2019/) [[paper](http://anduowang.github.io/docs/lpnmr19.pdf)] [[slides](http://anduowang.github.io/docs/lpnmr19_talk.pdf)]
+
+
+<!-- ## deductive knowledge plane for provably correct SDN integration -->
+
+<!-- - _Automating SDN Composition: A Database Perspective_ SOSR'17 [[extended abstract](docs/sosr17extendedabstract.pdf)] [[poster](docs/sosr17poster.pdf)] -->
 
 ----
 
