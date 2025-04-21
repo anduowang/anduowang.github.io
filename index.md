@@ -39,6 +39,7 @@ My current and past projects (more at the [Ravel project](http://ravel-net.org/)
 ----
 
 selected publications
+: _Modern Network Troubleshooting with Declarative Debugging_, poster, NSDI 2025 [[extended abstract](http://anduowang.github.io/docs/NSDI25-poster-abstract.pdf)]
 : _Faure: A Partial Approach to Network Analysis_, [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021/) [[paper](http://anduowang.github.io/docs/faure.pdf)] [[slides](http://anduowang.github.io/docs/faure-hotnets.pdf)]
 : _Internet Routing and Non-monotonic Reasoning_ [LPNMR 2019](https://sites.sju.edu/plw/lpnmr-2019/) [[paper](http://anduowang.github.io/docs/lpnmr19.pdf)] [[slides](http://anduowang.github.io/docs/lpnmr19_talk.pdf)]
 : _Ravel: A Database-Defined Network_, [SOSR'16](http://conferences.sigcomm.org/sosr/2016/) [[paper](docs/sosr16.pdf)] [[slides](docs/SOSR16slide2.pdf)] [[demo](docs/demo.mp4)]
